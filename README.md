@@ -17,7 +17,8 @@
    IT - запрет смены обоев.
    Management - запрет смены обоев.
    <img width="1008" height="444" alt="Снимок экрана 2026-06-21 132349" src="https://github.com/user-attachments/assets/7fe07bf7-9505-4dd5-a4f0-f3992e51ad5b" />
-<img width="748" height="519" alt="Снимок экрана 2026-06-21 130551" src="https://github.com/user-attachments/assets/f9044b82-c8b5-4bda-be67-6c79e6a75901" />
+   <img width="748" height="519" alt="Снимок экрана 2026-06-21 130551" src="https://github.com/user-attachments/assets/f9044b82-c8b5-4bda-be67-6c79e6a75901" />
+
 5. Вывод:
    В ходе лабараторной работы были созданы и настроены групповые политики Active Directory, которые позволяют централизованно ограничивать действия пользователей.
    Была реализована модель управления доступом, при которой политики применяются к конкретным подразделениям.
